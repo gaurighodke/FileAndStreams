@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<Employee xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EmpId>12</EmpId>
+  <EmpName>as</EmpName>
+  <salary>123</salary>
+</Employee><?xml version="1.0"?>
+<Employee xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EmpId>12</EmpId>
+  <EmpName>qwer</EmpName>
+  <salary>12345</salary>
+</Employee>
